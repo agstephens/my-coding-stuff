@@ -1,0 +1,3 @@
+# ls is for listing
+# e.g.
+ls -l
